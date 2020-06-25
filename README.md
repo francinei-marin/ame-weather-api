@@ -1,6 +1,6 @@
 # Projeto Weather
 
-Projeto para integração com parceiro para pagamento de débitos de veículos na Zapay
+Projeto para treinamento da arquitetura AME.
 
 ## Getting Started
 ### Pré-requisitos
